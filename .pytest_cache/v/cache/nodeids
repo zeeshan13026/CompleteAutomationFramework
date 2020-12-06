@@ -1,0 +1,8 @@
+[
+  "TestResources/test_addmultiplebooks.py::Testbookstore_addmultiplebooks::test_addmultiplebooks",
+  "TestResources/test_bookstore_duplicatebook.py::Testbookstore_duplicatebook::test_duplicatebook",
+  "TestResources/test_bookstore_signup.py::Testbookstore_signup::test_signup",
+  "Test/test_addmultiplebooks.py::Testbookstore_addmultiplebooks::test_addmultiplebooks",
+  "Test/test_bookstore_duplicatebook.py::Testbookstore_duplicatebook::test_duplicatebook",
+  "Test/test_bookstore_signup.py::Testbookstore_signup::test_signup"
+]
