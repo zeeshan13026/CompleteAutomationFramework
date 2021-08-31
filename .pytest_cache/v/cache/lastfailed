@@ -1,6 +1,7 @@
 {
   "Test/test_addmultiplebooks.py::Testbookstore_addmultiplebooks::test_addmultiplebooks": true,
   "Test/test_bookstore_duplicatebook.py::Testbookstore_duplicatebook::test_duplicatebook": true,
+  "Test/test_bookstore_login.py::Testbookstore_login::test_login": true,
   "Test/test_bookstore_signup.py::Testbookstore_signup::test_signup": true,
   "TestResources/test_addmultiplebooks.py::Testbookstore_addmultiplebooks::test_addmultiplebooks": true
 }
